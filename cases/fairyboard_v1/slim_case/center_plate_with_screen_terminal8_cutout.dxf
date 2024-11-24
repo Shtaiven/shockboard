@@ -351,6 +351,34 @@ AcDbEntity
 100
 AcDbPolyline
  90
+4
+ 70
+1
+ 10
+-6.75
+ 20
+8.88
+ 10
+-6.75
+ 20
+38.38
+ 10
+6.75
+ 20
+38.38
+ 10
+6.75
+ 20
+8.88
+  0
+LWPOLYLINE
+100
+AcDbEntity
+  8
+0
+100
+AcDbPolyline
+ 90
 76
  70
 1
